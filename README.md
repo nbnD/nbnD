@@ -1,13 +1,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
  <div id="badges">
-  <a href="https://www.linkedin.com/in/nabindhakal" target="_blank">
+  <a onclick="window.open(this.href,'_blank');return false;" href="https://www.linkedin.com/in/nabindhakal">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCW6oYt_3QSl7J2HSHNqwXWw" target="_blank">
+  <a onclick="window.open(this.href,'_blank');return false;" href="https://www.youtube.com/channel/UCW6oYt_3QSl7J2HSHNqwXWw" >
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://medium.com/@nabin.dhakal" target="_blank">
+  <a onclick="window.open(this.href,'_blank');return false;" href="https://medium.com/@nabin.dhakal" target="_blank">
     <img src="https://img.shields.io/badge/Medium-black?style=flat&logo=medium&logoColor=white" height="30px" alt="Medium Badge"/>
   </a>
  
