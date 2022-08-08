@@ -19,7 +19,7 @@
     <img alt="StackOverflow" src="https://stackoverflow-badge.vercel.app/?userID=8023701" />
    </a>
   <h1  <g-emoji class="g-emoji" alias="sunglasses" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f60e.png">😎</g-emoji>About Me</h1>
-  <div>I am Nabin Dhakal working professionally as a Mobile Application Developer for 6 years.</div>
+  <div>I am Nabin Dhakal working professionally as a Mobile Application Developer from 6 years.</div>
   
   
 
