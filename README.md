@@ -11,7 +11,6 @@
     <img src="https://img.shields.io/badge/Medium-black?style=flat&logo=medium&logoColor=white" height="30px" alt="Medium Badge"/>
   </a>
   
-  https://camo.githubusercontent.com/ee1eebad0e6d646f3d1691d117aae6157a195ab6e0c9648b0d7a1be54fff1706/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f6e6174652d4275792532304d6525323041253230436f666665652d79656c6c6f772e737667
  
    
   
