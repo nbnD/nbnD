@@ -16,7 +16,7 @@
   
                                                                      
 </div>
-  <a href="https://stackoverflow.com/users/8023701/wasitshafi" target="_blank">
+  <a href="https://stackoverflow.com/users/8023701/wasitshafi" target="blank">
     <img alt="StackOverflow" src="https://stackoverflow-badge.vercel.app/?userID=8023701" />
    </a>
   
