@@ -21,7 +21,7 @@
    </a>
   
   <a href="https://camo.githubusercontent.com/ee1eebad0e6d646f3d1691d117aae6157a195ab6e0c9648b0d7a1be54fff1706/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f6e6174652d4275792532304d6525323041253230436f666665652d79656c6c6f772e737667" target="_blank">
-    <img alt="Buy Me a coffee" src="https://stackoverflow-badge.vercel.app/?userID=8023701" />
+    <img alt="Buy Me a coffee" src="https://camo.githubusercontent.com/ee1eebad0e6d646f3d1691d117aae6157a195ab6e0c9648b0d7a1be54fff1706/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f6e6174652d4275792532304d6525323041253230436f666665652d79656c6c6f772e737667" />
    </a>
   
   <h1  <g-emoji class="g-emoji" alias="sunglasses" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f60e.png">😎</g-emoji>About Me</h1>
