@@ -2,7 +2,10 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
  <div id="badges">
    
-   [![https://img.shields.io/badge/Title-37a779?style=for-the-badge]] [https://flutterjunction.com]
+    <a onclick="window.open(this.href,'_blank');return true;" href="https://flutterjunction.com">
+    <img src="https://img.shields.io/badge/Title-37a779?style=for-the-badge" alt="Website"/>
+  </a>
+<!--    [![https://img.shields.io/badge/Title-37a779?style=for-the-badge]] [https://flutterjunction.com] -->
    
    
   <a onclick="window.open(this.href,'_blank');return false;" href="https://www.linkedin.com/in/nabindhakal">
