@@ -70,14 +70,14 @@
  
  
  
- <div>
+<!--  <div>
  <h1><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">Github 📊</g-emoji></h1>
  
  
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nbnD&theme=tokyonight" width="48%" height="50%" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=nbnD&theme=tokyonight" style="max-width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api?username=nbnD&theme=tokyonight" width="48%" height="50%" data-canonical-src="https://github-readme-stats.vercel.app/api?username=nbnD&theme=tokyonight" style="max-width: 100%;">
  
- </div>
+ </div> -->
  
  
 </div>
