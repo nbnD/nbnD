@@ -15,7 +15,7 @@
   <a onclick="window.open(this.href,'_blank');return false;" href="https://www.youtube.com/channel/UCW6oYt_3QSl7J2HSHNqwXWw" >
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a onclick="window.open(this.href,'_blank');return false;" href="https://medium.com/@nabin.dhakal" target="_blank">
+  <a onclick="window.open(this.href,'_blank');return false;" href="https://medium.com/@flutterjunction" target="_blank">
     <img src="https://img.shields.io/badge/Medium-black?style=flat&logo=medium&logoColor=white" height="30px" alt="Medium Badge"/>
   </a>
   
