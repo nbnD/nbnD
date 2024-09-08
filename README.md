@@ -1,5 +1,9 @@
+<!-- ![Flutter Junction](https://github.com/user-attachments/assets/fbf46c30-46b6-4678-80af-ca9e66c6a0d6)(https://example.com) -->
+[![Flutter Junction](https://github.com/user-attachments/assets/fbf46c30-46b6-4678-80af-ca9e66c6a0d6)](https://flutterjunction.com)
+
+
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
   
   <div id="flutterjunction">
     <a onclick="window.open(this.href,'_blank');return true;" href="https://flutterjunction.com">
